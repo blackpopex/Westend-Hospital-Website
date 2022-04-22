@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type = "text/css" href="xmlstyle.css"?>
+<pages>
+    <link>
+        <title>Radiology</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/department-and-services.php</url>
+    </link>
+    <link>
+        <title>Dermatology</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/department-and-services.php</url>
+    </link>
+    <link>
+        <title>Neurology</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/department-and-services.php</url>
+    </link>
+    <link>
+        <title>Orthopaedic Surgery</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/department-and-services.php</url>
+    </link>
+    <link>
+        <title>History</title>
+        <url>http://westendhospital.epizy.com/our-history.php</url>
+    </link>
+    <link>
+        <title>Abdominal CT Scan</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Chest CT Scan</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Brain CT Scan</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>CT Urography</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Leg X-ray</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Blood sugar test</title>
+         <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Biopsy</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Blood culture</title>
+         <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Audiometry</title>
+        <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+    <link>
+        <title>Abdominal Ultra Sound</title>
+         <url>http://westendhospital.epizy.com/medical-test-and-services/A-Z-of-all-medical-test.php</url>
+    </link>
+   
+</pages>
